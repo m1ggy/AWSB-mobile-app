@@ -17,10 +17,18 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "awsb.app"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "android": {
+      "permissions": [
+        "CAMERA"
+      ],
+      "package": "awsb.app"
+    },
+    "description": "a gamified app for the automatic waste segregation bin"
   }
 }

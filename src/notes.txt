@@ -1,0 +1,86 @@
+UNFINISHED
+
+1. Classcode generation and checkbox
+
+PLANNED
+
+1. Leaderboard Screen
+2.Classroom Screen
+4. Figure out what the fuck to do with the classroom
+
+
+16/11/2020
+
+things done:
+
+1. working on classroom screen
+    a. added create classroom button
+    b. added modal for creating classroom
+    c. added QRCode generation
+
+need to create:
+
+1. collection of classrooms
+2. think about a way to compile the users into 1 classroom
+3. make error alerts
+4. fix design (xd) 
+5. make a flat list of each classroom
+
+
+26/11/2020
+
+1. fix qr code generation not rerendering after class name input (FIXED)
+
+1/12/2020
+
+things done:
+1.fixed the layout of the navigator. redone the number of screens
+2. fixing the homepage to accomodate qr code and data visualization components
+3. can now access class collection
+
+need to create/fix:
+
+1. Classroom is still broken (FIUEXED 02/12/2020)
+2. create a join class function (FIUEXED 02/12/2020)
+3. create a display for the teacher to show all members of the class and their statistics
+4. fix Validation for classname. right now you can create multiple classroom with the same name
+
+02/12/2020
+
+things done:
+1. finally finished joining a class in the backend
+
+need to create/fix:
+3. create a display for the teacher to show all members of the class and their statistics
+4. fix Validation for classname. right now you can create multiple classroom with the same name
+
+03/12/2020
+
+things done:
+
+1. Finished the joining class module
+
+04/12/2020
+
+logs:
+1.Stuck in displaying the flat list
+
+logs #1 of 2021
+Date : Jan 5, 2021
+
+1. Start the development again
+2. think of a way to gamified the application more
+3. 
+
+IDEAS FOR GAMIFICATION
+1. Rewards
+2. Badges for certain achievements
+
+logs #2 of 2021
+
+1. working on the quiz for the application
+2. the app is almost done 
+3. a few bugs left
+
+
+
